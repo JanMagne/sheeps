@@ -2,6 +2,8 @@
 
 A top-down sheep herding simulation in Python and pygame. A flock of sheep and lambs grazes a fenced pasture, eats hay, gathers at night and runs from the sheepdog. Your goal is to get the whole herd into the pen.
 
+![Sheep grazing round two hay bales, with the sheepdog and the pen](docs/screenshot.png)
+
 ## Running
 
 Needs Python 3.14 and [pygame-ce](https://pyga.me/).
